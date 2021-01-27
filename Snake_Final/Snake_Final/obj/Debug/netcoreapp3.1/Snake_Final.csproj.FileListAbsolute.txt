@@ -1,0 +1,13 @@
+C:\Users\Yura\Documents\C#\Snake_Final\Snake_Final\bin\Debug\netcoreapp3.1\Snake_Final.exe
+C:\Users\Yura\Documents\C#\Snake_Final\Snake_Final\bin\Debug\netcoreapp3.1\Snake_Final.deps.json
+C:\Users\Yura\Documents\C#\Snake_Final\Snake_Final\bin\Debug\netcoreapp3.1\Snake_Final.runtimeconfig.json
+C:\Users\Yura\Documents\C#\Snake_Final\Snake_Final\bin\Debug\netcoreapp3.1\Snake_Final.runtimeconfig.dev.json
+C:\Users\Yura\Documents\C#\Snake_Final\Snake_Final\bin\Debug\netcoreapp3.1\Snake_Final.dll
+C:\Users\Yura\Documents\C#\Snake_Final\Snake_Final\bin\Debug\netcoreapp3.1\Snake_Final.pdb
+C:\Users\Yura\Documents\C#\Snake_Final\Snake_Final\obj\Debug\netcoreapp3.1\Snake_Final.csprojAssemblyReference.cache
+C:\Users\Yura\Documents\C#\Snake_Final\Snake_Final\obj\Debug\netcoreapp3.1\Snake_Final.AssemblyInfoInputs.cache
+C:\Users\Yura\Documents\C#\Snake_Final\Snake_Final\obj\Debug\netcoreapp3.1\Snake_Final.AssemblyInfo.cs
+C:\Users\Yura\Documents\C#\Snake_Final\Snake_Final\obj\Debug\netcoreapp3.1\Snake_Final.csproj.CoreCompileInputs.cache
+C:\Users\Yura\Documents\C#\Snake_Final\Snake_Final\obj\Debug\netcoreapp3.1\Snake_Final.dll
+C:\Users\Yura\Documents\C#\Snake_Final\Snake_Final\obj\Debug\netcoreapp3.1\Snake_Final.pdb
+C:\Users\Yura\Documents\C#\Snake_Final\Snake_Final\obj\Debug\netcoreapp3.1\Snake_Final.genruntimeconfig.cache
